@@ -1,6 +1,6 @@
 cask "eskele" do
-  version "0.1.2"
-  sha256 "56451ab4af40cac2cdbbcc9bbf2181e0ac3da1b611220c19f04a6cbe0a927816"
+  version "0.2.0"
+  sha256 "db539819a83cfe4ebd97cadebf9dca2d130b3d8782eb1c5bf07a0bab0e0443e9"
 
   url "https://github.com/hossainalhaidari/eskele/releases/download/v#{version}/Eskele-#{version}.dmg"
   name "Eskele"
