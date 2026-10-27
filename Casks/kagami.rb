@@ -1,6 +1,6 @@
 cask "kagami" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "92a34a5ce44160c1c8297cde504c6db3d8f845303bce32cf4ab01d778053e539"
 
   url "https://github.com/hossainalhaidari/kagami/releases/download/v#{version}/Kagami-#{version}.dmg"
   name "Kagami"
